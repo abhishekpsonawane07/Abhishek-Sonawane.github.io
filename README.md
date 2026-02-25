@@ -179,5 +179,3 @@ If you’re hiring or collaborating in Data Science, Analytics, or AI — feel f
 
 ---
 
-* Or convert this into a **one-page portfolio-style GitHub profile**
-* Or rewrite it in a more “top 1% Data Science profile” style** 🚀
